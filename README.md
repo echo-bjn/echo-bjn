@@ -1,18 +1,14 @@
 ## Hi, I'm Jianing Bai 👋
 
-I am currently a Master's student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**. I received my B.E. degree from the **School of Artificial Intelligence, Xi'an Jiaotong University (XJTU)** in 2025.
+I am currently a Master's student at the **Institute of Automation, Chinese Academy of Sciences (CASIA)**. I received my B.E. degree from the **School of Artificial Intelligence, Xi'an Jiaotong University (XJTU)** in 2025. My research interests mainly focus on large models for video understanding and video understanding agents.
 
 ## 🔬 Research Interests
-
-My research focuses on:
 
 - 🎥 Long Video Understanding
 - 🤖 Video Understanding Agents
 - 🔍 Long Video Reasoning
 - 🧠 Multimodal Large Language Models (MLLMs)
 - 🛠️ Agentic Systems
-
-I am particularly interested in enabling multimodal agents to understand, reason over, and interact with complex long-form videos.
 
 ## 📫 Connect With Me
 
