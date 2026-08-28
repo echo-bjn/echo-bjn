@@ -18,5 +18,6 @@ I am particularly interested in enabling multimodal agents to understand, reason
 
 - **Email:** [baijianing2025@ia.ac.cn](mailto:baijianing2025@ia.ac.cn)
 
+
 If you're interested in **Video Agents** or related topics, feel free to reach out and discuss ideas with me!
 ```
