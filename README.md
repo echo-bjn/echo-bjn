@@ -7,7 +7,6 @@ I am currently a Master's student at the **Institute of Automation, Chinese Acad
 - 🎥 Long Video Understanding
 - 🤖 Video Understanding Agents
 - 🔍 Long Video Reasoning
-- 🧠 Multimodal Large Language Models (MLLMs)
 - 🛠️ Agentic Systems
 
 ## 📫 Connect With Me
